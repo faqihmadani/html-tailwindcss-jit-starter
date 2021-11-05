@@ -1,3 +1,9 @@
+Clone this repo :
+
+``
+git clone
+``
+
 Run development server :
 
 ``
