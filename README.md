@@ -1,7 +1,7 @@
 Clone this repo :
 
 ``
-git clone
+git clone https://github.com/faqihmadani/html-tailwindcss-jit-starter.git folder-name
 ``
 
 Run development server :
